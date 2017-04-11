@@ -1,0 +1,66 @@
+/*CSS reset setting here*/
+
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+#wrapper{
+    width: 970px;
+    background-color: #245176;
+}
+
+#header img{
+    width: 300px;
+      
+}
+
+#header h5{
+    color: white;
+    margin-left: 785px;
+    margin-top: -82px;
+    padding-top: -8px
+}
+
+#header span{
+    color: yellow;
+}
+
+#header span2{
+    color: black;
+}
+
+input{
+    margin-left: 16px;
+    vertical-align: top;
+    padding-top: 6px;
+    margin-top: 8px;
+   
+}
+
+#black-box{
+    width: 208px;
+    background-color: black;
+    height: 45px;
+    border-radius: 14px;
+    margin-left: 743px;
+    /*margin-top: -16px;*/
+    margin-bottom: 36px;
+}
+
+#black-box button{
+    background-color: #245176;
+    margin-left: 195px;
+}
+
+.navigation li{
+    background-color: #467DAC;
+    color:white;
+    display: inline-block;
+    
+    margin-right: -4px;
+    margin: 0;
+    padding: 11px;
+}
+
+
+

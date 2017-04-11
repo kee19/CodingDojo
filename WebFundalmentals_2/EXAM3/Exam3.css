@@ -1,0 +1,168 @@
+*{
+	font-family: sans-serif;
+}
+#wrapper {
+	width: 725px;
+	background-color: #1B4F88; 
+}
+#nav-bar {
+	background-color: #F1EFEC;
+	width: 725px;
+	height: 83px;
+}
+#nav-bar img {
+	display: inline;
+	vertical-align: middle;
+}
+#nav-bar button {
+	margin-left: 202px;
+	background-color: #225C9F;
+	color: white;
+	border-radius: 6px;
+	margin-right: 33px;
+}
+.inline{
+	display: inline-block;
+	margin-left: 332px;
+}
+#nav-bar ul {
+	background-color: #E9E7E4;
+	margin-left: 221px;
+	margin-top: 0;
+}
+#nav-bar li {
+	list-style-type: none;
+	display: inline;
+	font-size: 13px;
+	margin-left: 0px;
+}
+.logo{
+	margin-left: 22px;
+}
+.logo img{
+	width=89px 
+	height=64px
+}
+.mag-glass{
+}
+input {
+	border-radius: 6px;
+}
+#main img{
+	margin-left: 69px;
+	margin-top: -205px;
+}
+#account-info {
+}
+#account-info button {
+}
+#account-info img {
+}
+form {
+	display: inline-block;
+	width: 200px;
+	border: solid white .5px;
+	height: 52px;
+}
+form h2 {
+	color: white;
+	font-size: 13px;
+	text-align: center;
+	margin-bottom: 0px;
+	height: 15px;
+}
+form h2 span {
+}
+form p {
+	color: lightgrey;
+	font-size: 9px;
+	margin-left: 11px;
+	margin-top: 2px;
+	margin-bottom: 15px;
+}
+form button {
+	margin-top: 14px;
+	color: #4F4F4F;
+}
+form span {
+}
+.text-box{
+	font-size: 13px;
+	background-color: lightgray;
+	font-weight: bolder;
+}
+label {
+	margin-left: 13px;
+}
+.acct-text{
+	margin-left: 13px;
+}
+#user_name {
+}
+h5 {
+	margin-top: 2px;
+	margin-bottom: 0px;
+	margin-left: 13px;
+}
+span {
+	color: #3A69FE;
+}
+span2{
+	font-size: 11px;
+}
+button2 {
+	background-color: transparent;
+	color: antiquewhite;
+	border: solid antiquewhite .5px;
+	padding: 7px 13px;
+}
+/*
+.students {
+}
+br {
+}
+#password {
+}
+#sub-contents {
+}
+*/
+#sub-contents h2 {
+	font-size: 13px;
+	margin-left: 11px;
+}
+/*
+#sub-contents span {
+}
+#sub-contents img {
+}
+#sub-contents h3 {
+}
+#sub-contents p {
+}
+*/
+.services {
+	background-color: white;
+	width: 238px;
+	font-size: 9px;
+	display: inline-block;
+}
+.services img {
+	display: inline-block;
+}
+.services h3 {
+	display: inline;
+}
+.services p {
+	display: inline;
+}
+footer {
+	font-size: 10px;
+	background-color: #DBD6D0;
+}
+footer ul{
+	list-style-type: none;
+	display: inline;
+}
+footer li {
+	display: inline;
+}

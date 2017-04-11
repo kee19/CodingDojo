@@ -1,0 +1,152 @@
+	/*CSS reset settings here*/
+
+	#wrapper{
+		background-color: dodgerblue;
+		width: 970px;
+	}
+	#navigation{
+		background-color: E9E9E9;
+
+	}
+
+	#navigation img{
+		width: 62px;
+		border-radius: 6px;
+		display: inline-block;
+		padding: 4px;
+		vertical-align: 10px;
+	}
+
+	#navigation ul{
+		display: inline-block;
+		margin-left: -48px;
+		vertical-align: text-bottom;
+
+	}
+	#navigation li{
+		background-color: lightgrey;
+		display: inline-block;
+		margin: 0;
+		padding: 0;
+		list-style-type: none;
+		padding: 17px;
+		margin-right: -4px;
+	}
+
+	input{
+		background-color: white;
+		color: lightgray;
+		width: 268px;
+		height: 34px;
+		border: solid 12px;
+		padding: 14px;
+		display: inline-block;
+		vertical-align: 35px;
+	}
+
+	#navigation button{
+		background-color: blue;
+		margin-left: -5px;
+		vertical-align: 16px;
+		border-bottom-right-radius: 2em;
+		border-top-right-radius: 2em;
+		width: 50px;
+		height: 51px;
+	}
+
+	#main img{
+		width: 970px;
+
+	}
+
+	#main-nav{
+		background-color: darkgray;
+	}
+
+	#main ul{
+		list-style-type: none;
+		padding: 0;
+		margin: 0;
+	}
+	#main-nav li{
+		list-style-type: none;
+
+	}
+	#discover h1{
+		background-color: yellowgreen;
+		width: 970px;
+		height: 66px;
+		padding-top: 22px;
+	}
+
+	/*
+	#discover btn{
+		margin-left: 195px;
+		width: 254px;
+		padding: 12px;
+		background-color: white;
+		border-radius: 10px;
+	*/
+	}
+
+	#browse{
+		margin-left: 195px;
+		width: 254px;
+		padding: 12px;
+		background-color: white;
+		border-radius: 10px;
+	}
+
+	.main_content{
+			margin: 1px;
+			margin-left: 21px;
+			padding: 10px;
+			vertical-align: middle;
+			display: inline-block;
+			width: 28%;
+			background-color: dodgerblue;
+			height: 350px;
+	}
+
+	.content_header{
+
+
+			background-color: lightgrey;
+			color: black;
+	}
+	 .content_header img{
+	   width: 28px;
+		height: 30px;
+	}
+
+	}
+		h3{
+		   margin-left: 4px;
+		display: inline-block;
+		vertical-align: 7px;
+	}
+
+	img{
+		width: 283px;
+
+	}
+	}
+	button{
+		text-align: center;
+		margin-left: 5px;
+		background-color: deepskyblue;
+		padding: 10px;
+		padding-left: 50px;
+		padding-right: 50px;
+		border-radius: 10px;
+		margin-top: 26px;
+
+	}
+	#1{
+		text-align: center;
+		margin-left: 5px;
+		background-color: deepskyblue;
+		   border-radius: 10px;
+
+	}
+

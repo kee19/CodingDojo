@@ -1,0 +1,153 @@
+/*CSS reset settings here*/
+*{
+	margin: 0px auto;
+	padding: 0px;
+}
+
+#outer-wrapper{
+	background-color: #4e3a43;
+	width: 700px;
+}
+
+#header{
+	height: 50px;
+	background-color: #f6f6f6;
+	margin-bottom: 15px;
+}
+.header-contents h1{
+	display: inline-block;
+	font-family: cursive;
+	font-size: 23px;
+	margin-left: 19px;
+	
+}
+	
+.header-contents h3{
+	display: inline-block;
+	margin-left: 264px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+
+.main{
+	display: inline-block;
+	margin-left: 14px;
+}
+
+.main img{
+	width: 294px;
+	height: 189px;
+	vertical-align: top;
+	border: 3px solid #8a8895; 
+}
+
+.Bio{
+	display: inline-block;
+	width: 362px;
+	height: 195px;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color: #f1ebf0;
+	margin-left: 9px;
+	margin-bottom: 17px;
+}
+
+.Bio h2, #advertisement-1 h3, #advertisement-2 h3, #advertisement-3 h3{
+	background-color: #8a8895;
+	color: white;
+	font-size: 11px;
+	padding: 5px;
+	font-family: sans-serif;
+}
+
+
+#advertisement-1{
+	width: 201px;
+	
+	margin-left: 15px;
+	vertical-align: top;
+	background-color: #F6F6F6;
+	
+	
+}
+
+#advertisement-1 img, #advertisement-2 img, #advertisement-3 img{
+	width: 201px;
+}
+
+#advertisement-1 p, #advertisement-2 p, #advertisement-3 p{
+	font-size: 10.5px;
+	font-family: serif;
+	background-color: #F6F6F6;
+	
+}
+
+#advertisement-1 p{
+	padding: 19px;
+	margin-top: -4px;
+}
+
+#advertisement-1 h4, #advertisement-2 h4, #advertisement-3 h4{
+	background-color: #8a8895;
+	color: white;
+	font-family: monospace;
+	font-size: 10px;
+	padding: 4px;
+}
+
+#sub-advertisement-1 img, #sub-advertisement-2 img, #sub-advertisement-3 img{
+	width: 25px;
+	height: 25px;
+	margin-top: 5px;
+	margin-left: 10px;
+	
+}
+
+button{
+	font-size: 8px;
+	background-color:forestgreen;
+	color: white;
+	margin-left: 76px;
+	border-radius: 6px;
+	padding:3px;
+	font-family: sans-serif;
+	margin-bottom: 12px;
+	
+}
+
+#advertisement-2{
+	width: 201px;
+	height: 357;
+	margin-left: 245px;
+	margin-top: -359px;
+	background-color: #F6F6F6;
+}
+
+#advertisement-2 p{
+	padding: 6px;
+	
+}
+#advertisement-3{
+	width: 201px;
+	height: 359px;
+	margin-left: 475px;
+	background-color: #F6F6F6;
+	margin-top: -365px;
+}
+
+#advertisement-3 p{
+	padding: 5px;
+	margin-top: -4px;
+}
+
+#footer{
+	background-color: #F6F6F6;
+	margin-top: 17px;
+	text-align: center;
+	
+}
+
+#footer img{
+	width: 20px;
+	
+}

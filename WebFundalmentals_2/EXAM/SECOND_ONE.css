@@ -1,0 +1,281 @@
+/*CSS reset settings here*/
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper {
+	width: 752px;
+	background-color: white
+		;
+}
+#header {
+	background-color: lightgrey;
+	width: 752px;
+	margin-left: 0px;
+	height: 53px;
+}
+.nav-bar {
+	height: 52px;
+	display: inline-block;
+}
+.nav-bar ul{
+	color: black;
+	margin-left: -4px;
+	display: inline-block;
+	vertical-align: 20px;
+	padding: 16px 8px 16px 28px;
+}
+.nav-bar ul li{
+	list-style-type: none;
+	display: inline;
+	padding: 11px;
+
+}
+
+
+.nav-bar img{
+	width: 61px;
+	margin-left: 7px;
+}
+#searchbox {
+	margin-left: 9px;
+	display: inline-block;
+	vertical-align: 19px;
+	background-color: white;
+	border-radius: 8px;
+}
+#searchbox img  {
+	margin-left: 139px;
+	height: 20px;
+	width: 23px;
+	padding-bottom: -2px;
+	vertical-align: -4px;
+	border-bottom-right-radius: 7px;
+	border-top-right-radius: 7px;
+}
+#main{
+	background-color: firebrick;
+	margin-top: 7px;
+	height: 338px;
+}
+#main img {
+	/*	width: 942px;*/
+	width: 751px;
+	display:
+}
+#sub-nav {
+	color: dodgerblue;
+	margin-left: 11px;
+	display: inline-block;
+	vertical-align: 20px;
+	padding: 0px;
+	font-family: sans-serif;
+	font-size: 10px;
+}
+span li{
+	color: white;
+}
+span2{
+	color: black;
+}	
+#main ul li{
+	list-style-type: none;
+	margin: 0px;
+	display: inline-block;
+	padding: 0px 4px;
+}
+#discover{
+	background-color: white;
+	margin-top: 9px;
+	padding: 24px;
+	border: solid 2px lightgray;
+}
+#discover h1{
+	font-size: 24px;
+	display: inline-block;
+	margin-left: -18px;
+	font-family: sans-serif;
+}
+
+
+#discover button{
+	background-color: dodgerblue;
+	padding: 8px 12px 9px;
+	border-radius: 8px;
+	margin-left: 60px;
+	width: 195px;
+	color: white;
+	vertical-align: 0px;
+}
+#sub-contents {
+	vertical-align: top;
+}
+#sub-contents .col {
+	width: 173px;
+	background-color: white;
+	/*	margin-left: 56px;*/
+	height: 216px;
+	padding: 6px;
+	display: inline-block;
+	padding-bottom: 16px;
+	/*	vertical-align: 9px;*/
+	vertical-align: top;
+}
+
+h4{
+	display: inline;
+	font-size: 12px;
+	font-family: sans-serif;
+	/*    vertical-align: 3px;*/
+	vertical-align: top;
+}
+
+p{
+
+}
+#sub-contents img {
+	margin-left: 4px;
+	margin-bottom: 7px;
+}
+
+
+#sub-contents p {
+	font-size: 9px;
+	font-family: sans-serif;
+	background-color: white;
+	width: 135px;
+	margin-left: 6px;
+}
+#sub-contents button {
+	margin-left: 4px;
+	width: 139px;
+	font-size: 9px;
+	padding: 5px 37px;
+}
+
+/*Need to Finish here*/
+
+/*
+#sub-contents .col2 {
+width: 145px;
+background-color: greenyellow;
+margin-left: -4px;
+height: 226px;
+padding: 6px;
+display: inline-block;
+vertical-align: 13px;
+}
+
+#col2-img2{
+width: 139px;
+margin-bottom: 7px;
+
+
+}
+#sub-contents .col3 {
+width: 151px;
+background-color: greenyellow;
+margin-left: -4px;
+height: 226px;
+padding: 6px;
+display: inline-block;
+vertical-align: 9px;
+
+}
+*/
+
+/*
+#sub-contents #col3-img2 img{
+width: 144px;
+height: 86px;
+
+}
+*/
+
+/*
+#col3-img2 {
+width: 144px;
+height: 86px;
+}
+
+#start_your_trial.png {
+
+}
+
+
+#sub-contents .col4 {
+width: 146px;
+background-color: greenyellow;
+margin-left: -4px;
+height: 226px;
+padding: 6px;
+display: inline-block;
+vertical-align: 22px;
+}
+*/
+
+#sitemap {
+	display: inline;
+	font-family: sans-serif;
+	font-size: 10px;
+}
+
+#sitemap-col1{
+/*	width: 100px;*/
+	border-style: dotted;
+	font-size: 10px;
+	margin-left: 12px;
+	display: inline-block;
+	
+}
+
+.sitemap-col1 li, .sitemap-col2 li, .sitemap-col3 li, .sitemap-col4 li, .sitemap-col5 li, .sitemap-col6 li{
+	list-style-type: none;
+}
+
+#sitemap-col2 {
+/*	width: 100px;*/
+	border-style: dotted;
+	font-size: 10px;
+	margin-left: 56px;
+	display: inline-block;
+}
+
+.sitemap-col3 {
+/*	width: 100px;*/
+	border-style: dotted;
+	font-size: 10px;
+	margin-left: 56px;
+	display: inline-block;
+}
+
+.sitemap-col4 {
+/*	width: 100px;*/
+	border-style: dotted;
+	font-size: 10px;
+	margin-left: 56px;
+	display: inline-block;
+}
+
+.sitemap-col5 {
+/*	width: 100px;*/
+	border-style: dotted;
+	font-size: 10px;
+	margin-left: 56px;
+	display: inline-block;
+}
+
+.sitemap-col6 {
+/*	width: 100px;*/
+	border-style: dotted;
+	font-size: 10px;
+	margin-left: 56px;
+	display: inline-block;
+}
+
+
+footer {
+	text-align: center;
+	font-size: 11px;
+}
+

@@ -1,0 +1,44 @@
+﻿str= "It's Thanksgiving day.It's my Birthday,too!"
+print "It's Thanksgiving day."
+str= "day.April"
+
+
+
+
+string.find(s, sub[, start[, end]])
+
+string.replace(str, "day", "month"[April, maxreplace])
+
+
+Python 2.7.10 (default, May 23 2015, 09:44:00) [MSC v.1500 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> str= "It's Thanksgiving day.It's my Birthday,too!"
+>>> print "It's Thanksgiving day."
+It's Thanksgiving day.
+>>> str= "day"
+>>> str= "It's Thanksgiving day.It's my Birthday,too!"
+>>> print "It's Thanksgiving day."
+It's Thanksgiving day.
+>>> str= "day"
+>>> print string.replace(str, "day", "month"[, maxreplace])
+  File "<stdin>", line 1
+    print string.replace(str, "day", "month"[, maxreplace])
+                                             ^
+SyntaxError: invalid syntax
+>>> str= "It's Thanksgiving day.It's my Birthday,too!"
+>>> print "It's Thanksgiving day."
+It's Thanksgiving day.
+>>> str= "day.month"
+>>> month=April
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'April' is not defined
+>>> str= "It's Thanksgiving day.It's my Birthday,too!"
+>>> print "It's Thanksgiving day."
+It's Thanksgiving day.
+>>> str= "day.month"
+>>> print string.replace(str, "day", "month"[month, maxreplace])
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'string' is not defined
+>>>
